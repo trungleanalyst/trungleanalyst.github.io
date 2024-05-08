@@ -1,2 +1,0 @@
-# trungleanalyst.github.io
-Portfolio
